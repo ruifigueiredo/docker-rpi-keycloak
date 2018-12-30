@@ -4,6 +4,11 @@
 
 This Docker image provides [Keycloak](http://keycloak.jboss.org/)
 
+### Package included
+
+- rpi-java8 from marhan
+- keycloak 4.8.1 Final Standalone
+
 ### Build Details
 - [Source Repository](https://github.com/ruifigueiredo/docker-rpi-keycloak)
 - [Dockerfile](https://github.com/ruifigueiredo/docker-rpi-keycloak/blob/master/Dockerfile)
