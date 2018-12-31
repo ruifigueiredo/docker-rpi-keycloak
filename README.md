@@ -37,7 +37,7 @@ docker run --name keycloak --privileged -d -p 8180:8080 -p 9990:9990 ruifigueire
 
 ### Login
 
-- Open http://ADDRESS:8080 in browser
+- Open http://ADDRESS:8180 in browser
 - Login to Administration Console as 'admin:admin'
 
 forked from marhan docker keycloak
